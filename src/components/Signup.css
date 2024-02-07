@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+}
+.signup
+{   display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    color:blue;
+}
+form{
+    width:50%
+}
+.signupname
+{
+    color:black;
+}
+.iconcolor{
+    color:red;
+}

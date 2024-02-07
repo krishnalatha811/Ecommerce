@@ -1,0 +1,15 @@
+.dis
+{
+    display:flex;
+    justify-content:space-around
+}
+.itemslist
+{
+    display:flex;
+}
+.togglebutton{
+    display:flex;
+  justify-content: center;
+  align-items:center;
+  margin:auto
+}
